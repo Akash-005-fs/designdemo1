@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/designdemo1/static/css/main.95ac0982.css",
-    "main.js": "/designdemo1/static/js/main.364a4a6b.js",
+    "main.js": "/designdemo1/static/js/main.1dcab6e3.js",
     "static/media/landingsectionvideo.mp4": "/designdemo1/static/media/landingsectionvideo.224f48261232973aca80.mp4",
     "static/media/logoagenceynav.png": "/designdemo1/static/media/logoagenceynav.1d58f1da21d76c4f0970.png",
     "static/media/navphoto.jpg": "/designdemo1/static/media/navphoto.3679f7da3055673efe0c.jpg",
     "index.html": "/designdemo1/index.html",
     "main.95ac0982.css.map": "/designdemo1/static/css/main.95ac0982.css.map",
-    "main.364a4a6b.js.map": "/designdemo1/static/js/main.364a4a6b.js.map"
+    "main.1dcab6e3.js.map": "/designdemo1/static/js/main.1dcab6e3.js.map"
   },
   "entrypoints": [
     "static/css/main.95ac0982.css",
-    "static/js/main.364a4a6b.js"
+    "static/js/main.1dcab6e3.js"
   ]
 }
