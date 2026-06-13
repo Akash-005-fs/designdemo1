@@ -1,3 +1,23 @@
-node_modules
-dist
-.cache
+# dependencies
+node_modules/
+
+# production build
+dist/
+
+# local cache
+.cache/
+.vite/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# editor settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
