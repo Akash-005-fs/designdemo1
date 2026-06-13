@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/designdemo1/static/css/main.2cf3e620.css",
+    "main.js": "/designdemo1/static/js/main.447fcd4b.js",
+    "static/media/landingsectionvideo.mp4": "/designdemo1/static/media/landingsectionvideo.224f48261232973aca80.mp4",
+    "static/media/logoagenceynav.png": "/designdemo1/static/media/logoagenceynav.1d58f1da21d76c4f0970.png",
+    "static/media/navphoto.jpg": "/designdemo1/static/media/navphoto.3679f7da3055673efe0c.jpg",
+    "index.html": "/designdemo1/index.html",
+    "main.2cf3e620.css.map": "/designdemo1/static/css/main.2cf3e620.css.map",
+    "main.447fcd4b.js.map": "/designdemo1/static/js/main.447fcd4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cf3e620.css",
+    "static/js/main.447fcd4b.js"
+  ]
+}
