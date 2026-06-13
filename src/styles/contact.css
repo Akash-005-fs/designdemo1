@@ -1,0 +1,9 @@
+.contact-page,
+.contact-page .content-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-page p {
+  max-width: 760px;
+}

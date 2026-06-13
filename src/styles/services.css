@@ -1,0 +1,25 @@
+.services-page,
+.services-page .service-grid,
+.services-page .service-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.services-page .service-grid {
+  gap: 18px;
+  width: min(780px, 100%);
+}
+
+.services-page .service-card {
+  gap: 12px;
+  min-height: 160px;
+  justify-content: center;
+  padding: 28px;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 0;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.services-page .service-card p {
+  font-size: 16px;
+}

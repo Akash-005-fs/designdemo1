@@ -1,0 +1,157 @@
+/* ─────────────────────────────────────────────────────────────
+   LANDING  —  pure scroll-driven, fully reversible
+   Desktop : 560vh   Mobile : 460vh
+───────────────────────────────────────────────────────────────*/
+
+.landing-scroll {
+  position: relative;
+  min-height: 560vh;          /* desktop */
+  background: #000;
+  color: #fff;
+}
+
+.landing-sticky {
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background:
+    radial-gradient(ellipse 80% 50% at 50% 18%, rgba(113,91,255,0.17), transparent),
+    radial-gradient(ellipse 50% 40% at 14% 76%, rgba(43,200,255,0.09), transparent),
+    #000;
+}
+
+/* ── Video card ─────────────────────────────────────────────── */
+.landing-media-card {
+  background: #111;
+}
+
+.landing-video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.93;
+  display: block;
+}
+
+.landing-shade {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(0,0,0,0.04) 0%, rgba(0,0,0,0.52) 100%);
+}
+
+/* ── Hero copy ──────────────────────────────────────────────── */
+.landing-content {
+  position: absolute;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: min(960px, calc(100% - 48px));
+  text-align: center;
+}
+
+.landing-kicker {
+  margin: 0 0 20px;
+  color: rgba(255,255,255,0.58);
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.landing-content h1 {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(52px, 9vw, 112px);
+  font-weight: 700;
+  line-height: 0.88;
+  text-shadow: 0 12px 40px rgba(0,0,0,0.55);
+  text-wrap: balance;
+}
+
+.landing-copy {
+  max-width: 640px;
+  margin: 32px 0 0;
+  color: rgba(255,255,255,0.76);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.75;
+}
+
+/* ── Story section ──────────────────────────────────────────── */
+.landing-story {
+  position: absolute;
+  z-index: 3;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+  padding: 0 32px;
+}
+
+.landing-story-line {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: baseline;
+  min-height: 1.1em;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(38px, 7.5vw, 86px);
+  font-weight: 700;
+  line-height: 1.0;
+  color: #fff;
+  text-shadow: 0 6px 28px rgba(0,0,0,0.4);
+}
+
+.landing-story-word { display: inline-block; }
+
+.landing-story-dots {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.landing-story-dot {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.20);
+  transition: background 250ms ease, transform 250ms ease;
+}
+
+.landing-story-dot.active {
+  background: rgba(255,255,255,0.86);
+  transform: scale(1.55);
+}
+
+/* ── Mobile ─────────────────────────────────────────────────── */
+@media (max-width: 820px) {
+  .landing-scroll   { min-height: 460vh; }
+
+  .landing-content h1 {
+    font-size: clamp(42px, 13.5vw, 68px);
+  }
+  .landing-copy {
+    font-size: 14px;
+    margin-top: 20px;
+  }
+  .landing-story-line {
+    font-size: clamp(30px, 9.5vw, 52px);
+  }
+  .landing-story { gap: 24px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .landing-story-word {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}
