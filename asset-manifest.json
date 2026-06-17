@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/designdemo1/static/css/main.6c986402.css",
-    "main.js": "/designdemo1/static/js/main.ccbc27fd.js",
+    "main.css": "/designdemo1/static/css/main.97c8cd3e.css",
+    "main.js": "/designdemo1/static/js/main.13ce3e9a.js",
     "static/media/og.mp4": "/designdemo1/static/media/og.737ed2c5dae2c27eeaac.mp4",
-    "static/media/ChatGPT Image Jun 14, 2026, 12_46_36 PM.png": "/designdemo1/static/media/ChatGPT Image Jun 14, 2026, 12_46_36 PM.e47909ed529400c3d12f.png",
     "static/media/logoagenceynav.png": "/designdemo1/static/media/logoagenceynav.1d58f1da21d76c4f0970.png",
+    "static/media/—Pngtree—android mobile frame vector_14724214.png": "/designdemo1/static/media/—Pngtree—android mobile frame vector_14724214.f3dd0def4cf9c73b134a.png",
     "static/media/navphoto.jpg": "/designdemo1/static/media/navphoto.3679f7da3055673efe0c.jpg",
     "index.html": "/designdemo1/index.html",
-    "main.6c986402.css.map": "/designdemo1/static/css/main.6c986402.css.map",
-    "main.ccbc27fd.js.map": "/designdemo1/static/js/main.ccbc27fd.js.map"
+    "main.97c8cd3e.css.map": "/designdemo1/static/css/main.97c8cd3e.css.map",
+    "main.13ce3e9a.js.map": "/designdemo1/static/js/main.13ce3e9a.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c986402.css",
-    "static/js/main.ccbc27fd.js"
+    "static/css/main.97c8cd3e.css",
+    "static/js/main.13ce3e9a.js"
   ]
 }
