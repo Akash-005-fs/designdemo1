@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/designdemo1/static/css/main.a530b4fd.css",
-    "main.js": "/designdemo1/static/js/main.c125c4ac.js",
+    "main.css": "/designdemo1/static/css/main.24815b72.css",
+    "main.js": "/designdemo1/static/js/main.08aec654.js",
     "static/media/og.mp4": "/designdemo1/static/media/og.737ed2c5dae2c27eeaac.mp4",
     "static/media/logoagenceynav.png": "/designdemo1/static/media/logoagenceynav.1d58f1da21d76c4f0970.png",
     "static/media/—Pngtree—android mobile frame vector_14724214.png": "/designdemo1/static/media/—Pngtree—android mobile frame vector_14724214.f3dd0def4cf9c73b134a.png",
     "static/media/navphoto.jpg": "/designdemo1/static/media/navphoto.3679f7da3055673efe0c.jpg",
     "index.html": "/designdemo1/index.html",
-    "main.a530b4fd.css.map": "/designdemo1/static/css/main.a530b4fd.css.map",
-    "main.c125c4ac.js.map": "/designdemo1/static/js/main.c125c4ac.js.map"
+    "main.24815b72.css.map": "/designdemo1/static/css/main.24815b72.css.map",
+    "main.08aec654.js.map": "/designdemo1/static/js/main.08aec654.js.map"
   },
   "entrypoints": [
-    "static/css/main.a530b4fd.css",
-    "static/js/main.c125c4ac.js"
+    "static/css/main.24815b72.css",
+    "static/js/main.08aec654.js"
   ]
 }
