@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/designdemo1/static/css/main.24815b72.css",
-    "main.js": "/designdemo1/static/js/main.08aec654.js",
+    "main.css": "/designdemo1/static/css/main.1a1853e7.css",
+    "main.js": "/designdemo1/static/js/main.a82556ae.js",
     "static/media/og.mp4": "/designdemo1/static/media/og.737ed2c5dae2c27eeaac.mp4",
-    "static/media/logoagenceynav.png": "/designdemo1/static/media/logoagenceynav.1d58f1da21d76c4f0970.png",
+    "static/media/demo11.png": "/designdemo1/static/media/demo11.fef267852bd29c2e4309.png",
+    "static/media/ChatGPT Image Jun 17, 2026, 07_50_26 PM.png": "/designdemo1/static/media/ChatGPT Image Jun 17, 2026, 07_50_26 PM.15f746614f6e07321098.png",
+    "static/media/brandidentity.png": "/designdemo1/static/media/brandidentity.df2795e5a0b3838ddc2c.png",
+    "static/media/sssss.png": "/designdemo1/static/media/sssss.ea9062de7bf3dcd9870b.png",
     "static/media/—Pngtree—android mobile frame vector_14724214.png": "/designdemo1/static/media/—Pngtree—android mobile frame vector_14724214.f3dd0def4cf9c73b134a.png",
-    "static/media/navphoto.jpg": "/designdemo1/static/media/navphoto.3679f7da3055673efe0c.jpg",
+    "static/media/2.jpg": "/designdemo1/static/media/2.a0b06d5673da9ad77980.jpg",
+    "static/media/uiux.jpg": "/designdemo1/static/media/uiux.491981fec35d81eb8eab.jpg",
+    "static/media/mobilefirstdesigns.jpg": "/designdemo1/static/media/mobilefirstdesigns.35b88f4ab5d99fe655ec.jpg",
     "index.html": "/designdemo1/index.html",
-    "main.24815b72.css.map": "/designdemo1/static/css/main.24815b72.css.map",
-    "main.08aec654.js.map": "/designdemo1/static/js/main.08aec654.js.map"
+    "main.1a1853e7.css.map": "/designdemo1/static/css/main.1a1853e7.css.map",
+    "main.a82556ae.js.map": "/designdemo1/static/js/main.a82556ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.24815b72.css",
-    "static/js/main.08aec654.js"
+    "static/css/main.1a1853e7.css",
+    "static/js/main.a82556ae.js"
   ]
 }
