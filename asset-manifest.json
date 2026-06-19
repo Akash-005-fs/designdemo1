@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/designdemo1/static/css/main.1a1853e7.css",
-    "main.js": "/designdemo1/static/js/main.a82556ae.js",
+    "main.css": "/designdemo1/static/css/main.a1df27b0.css",
+    "main.js": "/designdemo1/static/js/main.c35aa4da.js",
     "static/media/og.mp4": "/designdemo1/static/media/og.737ed2c5dae2c27eeaac.mp4",
+    "static/media/handphone.png": "/designdemo1/static/media/handphone.7a885e015b12f44f9fc7.png",
     "static/media/demo11.png": "/designdemo1/static/media/demo11.fef267852bd29c2e4309.png",
     "static/media/ChatGPT Image Jun 17, 2026, 07_50_26 PM.png": "/designdemo1/static/media/ChatGPT Image Jun 17, 2026, 07_50_26 PM.15f746614f6e07321098.png",
     "static/media/brandidentity.png": "/designdemo1/static/media/brandidentity.df2795e5a0b3838ddc2c.png",
+    "static/media/mrbsreen.png": "/designdemo1/static/media/mrbsreen.05a322bf10587bc12008.png",
+    "static/media/veldscreen.png": "/designdemo1/static/media/veldscreen.8cbd98ba6987f15c4ad7.png",
     "static/media/sssss.png": "/designdemo1/static/media/sssss.ea9062de7bf3dcd9870b.png",
     "static/media/—Pngtree—android mobile frame vector_14724214.png": "/designdemo1/static/media/—Pngtree—android mobile frame vector_14724214.f3dd0def4cf9c73b134a.png",
     "static/media/2.jpg": "/designdemo1/static/media/2.a0b06d5673da9ad77980.jpg",
     "static/media/uiux.jpg": "/designdemo1/static/media/uiux.491981fec35d81eb8eab.jpg",
     "static/media/mobilefirstdesigns.jpg": "/designdemo1/static/media/mobilefirstdesigns.35b88f4ab5d99fe655ec.jpg",
     "index.html": "/designdemo1/index.html",
-    "main.1a1853e7.css.map": "/designdemo1/static/css/main.1a1853e7.css.map",
-    "main.a82556ae.js.map": "/designdemo1/static/js/main.a82556ae.js.map"
+    "main.a1df27b0.css.map": "/designdemo1/static/css/main.a1df27b0.css.map",
+    "main.c35aa4da.js.map": "/designdemo1/static/js/main.c35aa4da.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a1853e7.css",
-    "static/js/main.a82556ae.js"
+    "static/css/main.a1df27b0.css",
+    "static/js/main.c35aa4da.js"
   ]
 }
