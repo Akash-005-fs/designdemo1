@@ -1,25 +1,35 @@
 {
   "files": {
-    "main.css": "/designdemo1/static/css/main.a1df27b0.css",
-    "main.js": "/designdemo1/static/js/main.c35aa4da.js",
-    "static/media/og.mp4": "/designdemo1/static/media/og.737ed2c5dae2c27eeaac.mp4",
+    "main.css": "/designdemo1/static/css/main.73dd81d4.css",
+    "main.js": "/designdemo1/static/js/main.4eaec817.js",
+    "static/media/designpit22.mp4": "/designdemo1/static/media/designpit22.c32b0e845f79b0e8cb4f.mp4",
     "static/media/handphone.png": "/designdemo1/static/media/handphone.7a885e015b12f44f9fc7.png",
     "static/media/demo11.png": "/designdemo1/static/media/demo11.fef267852bd29c2e4309.png",
     "static/media/ChatGPT Image Jun 17, 2026, 07_50_26 PM.png": "/designdemo1/static/media/ChatGPT Image Jun 17, 2026, 07_50_26 PM.15f746614f6e07321098.png",
+    "static/media/mainscroll.png": "/designdemo1/static/media/mainscroll.a6fdbc41a490fdc38d9e.png",
     "static/media/brandidentity.png": "/designdemo1/static/media/brandidentity.df2795e5a0b3838ddc2c.png",
     "static/media/mrbsreen.png": "/designdemo1/static/media/mrbsreen.05a322bf10587bc12008.png",
+    "static/media/a1 (2).png": "/designdemo1/static/media/a1 (2).2b5205b284c101fb3301.png",
     "static/media/veldscreen.png": "/designdemo1/static/media/veldscreen.8cbd98ba6987f15c4ad7.png",
+    "static/media/a1 (3).png": "/designdemo1/static/media/a1 (3).02295a3e9d1ac2744e79.png",
     "static/media/sssss.png": "/designdemo1/static/media/sssss.ea9062de7bf3dcd9870b.png",
+    "static/media/a1 (1).png": "/designdemo1/static/media/a1 (1).6a96661f1bcf87382df8.png",
     "static/media/—Pngtree—android mobile frame vector_14724214.png": "/designdemo1/static/media/—Pngtree—android mobile frame vector_14724214.f3dd0def4cf9c73b134a.png",
+    "static/media/frontend.png": "/designdemo1/static/media/frontend.a7b9c2aa4b060df66d56.png",
     "static/media/2.jpg": "/designdemo1/static/media/2.a0b06d5673da9ad77980.jpg",
     "static/media/uiux.jpg": "/designdemo1/static/media/uiux.491981fec35d81eb8eab.jpg",
     "static/media/mobilefirstdesigns.jpg": "/designdemo1/static/media/mobilefirstdesigns.35b88f4ab5d99fe655ec.jpg",
+    "static/media/designpit.png": "/designdemo1/static/media/designpit.4d3b3894d953231426d3.png",
+    "static/media/beefburgercard.jpg": "/designdemo1/static/media/beefburgercard.7762892702b6e981ccdc.jpg",
+    "static/media/veldcard2.jpg": "/designdemo1/static/media/veldcard2.d5215f7d626c677400d5.jpg",
+    "static/media/veldcard1.jpg": "/designdemo1/static/media/veldcard1.a26d6ccc20813617d01f.jpg",
+    "static/media/foodcard2.jpg": "/designdemo1/static/media/foodcard2.a6de771ee138ca890a06.jpg",
     "index.html": "/designdemo1/index.html",
-    "main.a1df27b0.css.map": "/designdemo1/static/css/main.a1df27b0.css.map",
-    "main.c35aa4da.js.map": "/designdemo1/static/js/main.c35aa4da.js.map"
+    "main.73dd81d4.css.map": "/designdemo1/static/css/main.73dd81d4.css.map",
+    "main.4eaec817.js.map": "/designdemo1/static/js/main.4eaec817.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1df27b0.css",
-    "static/js/main.c35aa4da.js"
+    "static/css/main.73dd81d4.css",
+    "static/js/main.4eaec817.js"
   ]
 }
