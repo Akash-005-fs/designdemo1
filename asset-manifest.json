@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/designdemo1/static/css/main.e47eb61c.css",
-    "main.js": "/designdemo1/static/js/main.351c897a.js",
+    "main.css": "/designdemo1/static/css/main.7fafe11f.css",
+    "main.js": "/designdemo1/static/js/main.d5d93d75.js",
     "static/media/designpit22.mp4": "/designdemo1/static/media/designpit22.c32b0e845f79b0e8cb4f.mp4",
     "static/media/handphone.png": "/designdemo1/static/media/handphone.7a885e015b12f44f9fc7.png",
     "static/media/demo11.png": "/designdemo1/static/media/demo11.fef267852bd29c2e4309.png",
@@ -26,11 +26,11 @@
     "static/media/veldcard1.jpg": "/designdemo1/static/media/veldcard1.a26d6ccc20813617d01f.jpg",
     "static/media/foodcard2.jpg": "/designdemo1/static/media/foodcard2.a6de771ee138ca890a06.jpg",
     "index.html": "/designdemo1/index.html",
-    "main.e47eb61c.css.map": "/designdemo1/static/css/main.e47eb61c.css.map",
-    "main.351c897a.js.map": "/designdemo1/static/js/main.351c897a.js.map"
+    "main.7fafe11f.css.map": "/designdemo1/static/css/main.7fafe11f.css.map",
+    "main.d5d93d75.js.map": "/designdemo1/static/js/main.d5d93d75.js.map"
   },
   "entrypoints": [
-    "static/css/main.e47eb61c.css",
-    "static/js/main.351c897a.js"
+    "static/css/main.7fafe11f.css",
+    "static/js/main.d5d93d75.js"
   ]
 }
